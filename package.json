@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  }
+}
